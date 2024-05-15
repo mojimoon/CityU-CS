@@ -19,7 +19,7 @@ In this project, you are required to implement a simple 16-bit processor in Logi
 ├── cpu_hw4.circ            # The Logisim circuit file
 ├── HW-4-answersheet.pdf    # The project report
 ├── HW-4-question.pdf       # The project description
-├── Mem-1                   # The instruction memory file corresponding to test cases given in the project description
+├── Mem-1                   # The instruction memory file corresponding to test cases
 ├── Mem-2
 ├── Mem-3
 ├── Mem-4

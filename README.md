@@ -6,12 +6,12 @@ This repository contains the notes and code for the courses I took in City Unive
 
 Please understand that:
 
-- The notes may contain incomplete or incorrect information.
-- The code is for reference only. Please do not copy and paste the code for your assignments.
-- The repository does not contain the teaching materials.
-- Courses that I am currently taking will not be published until the end of the semester.
+- The notes may contain typos and errors. Please use them with caution.
+- The code is for reference only. Copy-pasting the code may violate the academic honesty policy.
+- The repository does not contain any teaching materials.
+- The courses that I am currently taking will not be available until the end of the semester.
 
-All the notes are written in Markdown format and then exported to PDF with [Typora](https://typora.io/).
+All the notes are written in Markdown and exported to PDF, with the help of [Typora](https://typora.io/).
 
 ## Index
 
@@ -19,7 +19,7 @@ All the notes are written in Markdown format and then exported to PDF with [Typo
 
 | Code | Course | Repository | Notes |
 | --- | --- | --- | --- |
-| [CS1302](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm) | Introduction to Computer Programming | [Repository](https://github.com/cityu-cs/CS1302) | [Notes](./notes/CS1302_Introduction_to_Computer_Programming.pdf) |
+| **[CS1302](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm)** | Introduction to Computer Programming | [Repository](https://github.com/cityu-cs/CS1302) | [Notes](./notes/CS1302_Introduction_to_Computer_Programming.pdf) |
 | [MA1300](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1300.htm) | Enhanced Calculus and Linear Algebra I | | [Notes](./notes/MA1300_Enhanced_Calculus_and_Linear_Algebra_I.pdf) |
 | [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | | [Notes](./notes/PHY1201_General_Physics_I.pdf) |
 | [GE1401](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1401.htm) | University English | | |
@@ -31,19 +31,30 @@ All the notes are written in Markdown format and then exported to PDF with [Typo
 | --- | --- | --- | --- |
 | [GE2410](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2410.htm) | English for Engineering | | |
 | [MA1301](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1301.htm) | Enhanced Calculus and Linear Algebra II | | |
-| [CS2204](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm) | Fundamentals of Internet Applications Development | [Repository](https://github.com/cityu-cs/CS2204)<br>[Website](https://cityu-cs.github.io/CS2204/) | [Notes](./notes/CS2204_Fundamentals_of_Internet_Applications_Development.pdf) |
-| [CS2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2402.htm) | Introduction to Computational Probability Modelling | | [Notes](./notes/CS2402_Introduction_to_Computational_Probability_Modelling.pdf) |
-| [CS2310](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2310.htm) | Computer Programming | [Repository](https://github.com/cityu-cs/CS2310) | [Notes](./notes/CS2310_Computer_Programming.pdf) |
+| **[CS2204](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm)** | Fundamentals of Internet Applications Development | [Repository](https://github.com/cityu-cs/CS2204)<br>[Website](https://cityu-cs.github.io/CS2204/) | [Notes](./notes/CS2204_Fundamentals_of_Internet_Applications_Development.pdf) |
+| **[CS2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2402.htm)** | Introduction to Computational Probability Modelling | | [Notes](./notes/CS2402_Introduction_to_Computational_Probability_Modelling.pdf) |
+| **[CS2310](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2310.htm)** | Computer Programming | [Repository](https://github.com/cityu-cs/CS2310) | [Notes](./notes/CS2310_Computer_Programming.pdf) |
 
 ### 2023/24 Semester A
 
 | Code | Course | Repository | Notes |
 | --- | --- | --- | --- |
-| [CS2115](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2115.htm) | Computer Organization | [Project](./projects/CS2115/) | [Notes](./notes/CS2115_Computer_Organization.pdf)<br>[Review](./notes/CS2115_Computer_Organization_Review.pdf) |
-| [CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm) | Problem Solving and Programming | [Repository](https://github.com/cityu-cs/CS2312) | [Notes](./notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](./notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) |
-| [CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm) | Computer Networks | [Project](./projects/CS3201/) | [Notes](./notes/CS3201_Computer_Networks.pdf) |
-| [CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm) | Data Structures | [Repository](https://github.com/cityu-cs/CS3334) | [Notes](./notes/CS3334_Data_Structures.pdf)<br>[Review](./notes/CS3334_Data_Structures_Review.pdf) |
+| [CS2611](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2611.htm) | Seminars on Contemporary Technologies I | | |
+| **[CS2115](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2115.htm)** | Computer Organization | [Project](./projects/CS2115/) | [Notes](./notes/CS2115_Computer_Organization.pdf)<br>[Review](./notes/CS2115_Computer_Organization_Review.pdf) |
+| **[CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm)** | Problem Solving and Programming | [Repository](https://github.com/cityu-cs/CS2312)<br>[Project](https://github.com/cityu-cs/CS2312/tree/main/CS2312/Asg) | [Notes](./notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](./notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) |
+| **[CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm)** | Computer Networks | [Project](./projects/CS3201/) | [Notes](./notes/CS3201_Computer_Networks.pdf) |
+| **[CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm)** | Data Structures | [Repository](https://github.com/cityu-cs/CS3334)<br>[Project](https://github.com/cityu-cs/CS3334/tree/main/Project) | [Notes](./notes/CS3334_Data_Structures.pdf)<br>[Review](./notes/CS3334_Data_Structures_Review.pdf) |
 | [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
+
+### 2023/24 Semester B
+
+| Code | Course | Repository | Notes |
+| --- | --- | --- | --- |
+| [CS2611](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2611.htm) | Seminars on Contemporary Technologies I | | |
+| **[CS3103](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3103.htm)** | Operating Systems | [Project](https://github.com/Soohti/CS3103-Project) | [Notes](./notes/CS3103_Operating_Systems.pdf)<br>[Tutorial](./notes/CS3103_Operating_Systems_Tutorial.pdf)<br>[Assignment](./notes/CS3103_Operating_Systems_Assignment.pdf) |
+| **[CS3342](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm)** | Software Design | [Project](./projects/CS3342/) | [Notes](./notes/CS3342_Software_Design.pdf)<br>[Review](./notes/CS3342_Software_Design_Review.pdf) |
+| **[CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm)** | Database Systems | | [Notes](./notes/CS3402_Database_Systems.pdf)<br>[Exercises](./notes/CS3402_Database_Systems_Exercises.pdf) |
+| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](./notes/CB2500_Information_Management.pdf)<br>[Discussions](./notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](./notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](./notes/CB2500_Information_Management_Review.pdf) |
 
 ### Gateway Education
 
@@ -51,6 +62,13 @@ All the notes are written in Markdown format and then exported to PDF with [Typo
 | --- | --- | --- | --- | --- |
 | 22/23 Sem A | [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](./notes/GE1305_Foundation_Physics.pdf) |
 | 23/24 Sem A | [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | | [Notes](./notes/GE1205_Green_Economics.pdf) |
+| 23/24 Sem B | [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | | [Notes](./notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](./notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](./notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](./notes/GE2262_Business_Statistics_Review.pdf) |
+
+### Minor in Business Economics
+
+| Semester | Code | Course | Repository | Notes |
+| --- | --- | --- | --- | --- |
+| 23/24 Sem B | [CB2400](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2400.htm) | Microeconomics | | [Notes](./notes/CB2400_Microeconomics.pdf) <br> [Exercises](./notes/CB2400_Microeconomics_Exercises.pdf) |
 
 ## Similar repositories
 
