@@ -41,7 +41,7 @@ All the notes are written in Markdown and exported to PDF, with the help of [Typ
 | --- | --- | --- | --- |
 | [CS2611](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2611.htm) | Seminars on Contemporary Technologies I | | |
 | **[CS2115](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2115.htm)** | Computer Organization | [Project](./projects/CS2115/) | [Notes](./notes/CS2115_Computer_Organization.pdf)<br>[Review](./notes/CS2115_Computer_Organization_Review.pdf) |
-| **[CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm)** | Problem Solving and Programming | [Repository](https://github.com/cityu-cs/CS2312)<br>[Project](https://github.com/cityu-cs/CS2312/tree/main/CS2312/Asg) | [Notes](./notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](./notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) |
+| **[CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm)** | Problem Solving and Programming | | [Notes](./notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](./notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) |
 | **[CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm)** | Computer Networks | [Project](./projects/CS3201/) | [Notes](./notes/CS3201_Computer_Networks.pdf) |
 | **[CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm)** | Data Structures | [Repository](https://github.com/cityu-cs/CS3334)<br>[Project](https://github.com/cityu-cs/CS3334/tree/main/Project) | [Notes](./notes/CS3334_Data_Structures.pdf)<br>[Review](./notes/CS3334_Data_Structures_Review.pdf) |
 | [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
