@@ -15,6 +15,8 @@ All the notes are written in Markdown and exported to PDF, with the help of [Typ
 
 ## Index
 
+Courses in **bold** are CS major core courses.
+
 ### 2022/23 Semester A
 
 | Code | Course | Repository | Notes |
@@ -55,6 +57,14 @@ All the notes are written in Markdown and exported to PDF, with the help of [Typ
 | **[CS3342](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm)** | Software Design | [Project](./projects/CS3342/) | [Notes](./notes/CS3342_Software_Design.pdf)<br>[Review](./notes/CS3342_Software_Design_Review.pdf) |
 | **[CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm)** | Database Systems | | [Notes](./notes/CS3402_Database_Systems.pdf)<br>[Exercises](./notes/CS3402_Database_Systems_Exercises.pdf) |
 | [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](./notes/CB2500_Information_Management.pdf)<br>[Discussions](./notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](./notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](./notes/CB2500_Information_Management_Review.pdf) |
+
+### 2024/25 Semester A
+
+| Code | Course | Repository | Notes |
+| --- | --- | --- | --- |
+| [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | |
+| **[CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm)** | Software Engineering Practice | | [Notes](./notes/CS3343_Software_Engineering_Practice.pdf) <br> [Review](./notes/CS3343_Software_Engineering_Practice_Review.pdf) |
+| **[CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm)** | Design and Analysis of Algorithms | | [Notes](./notes/CS4335_Design_and_Analysis_of_Algorithms.pdf) <br> [Review](./notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) |
 
 ### Gateway Education
 
