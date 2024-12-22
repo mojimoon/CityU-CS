@@ -63,7 +63,7 @@ Courses in **bold** are CS major core courses.
 | Code | Course | Repository | Notes |
 | --- | --- | --- | --- |
 | [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | |
-| **[CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm)** | Software Engineering Practice | | [Notes](./notes/CS3343_Software_Engineering_Practice.pdf) <br> [Review](./notes/CS3343_Software_Engineering_Practice_Review.pdf) |
+| **[CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm)** | Software Engineering Practice | [Repository](https://github.com/gorandint/CS3343) | [Notes](./notes/CS3343_Software_Engineering_Practice.pdf) <br> [Review](./notes/CS3343_Software_Engineering_Practice_Review.pdf) |
 | **[CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm)** | Design and Analysis of Algorithms | | [Notes](./notes/CS4335_Design_and_Analysis_of_Algorithms.pdf) <br> [Review](./notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) |
 
 ### Gateway Education
