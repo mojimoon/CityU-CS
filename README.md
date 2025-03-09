@@ -6,10 +6,9 @@ This repository contains the notes and code for the courses I took in City Unive
 
 Please understand that:
 
-- The notes may contain typos and errors. Please use them with caution.
-- The code is for reference only. Copy-pasting the code may violate the academic honesty policy.
-- The repository does not contain any teaching materials.
-- The courses that I am currently taking will not be available until the end of the semester.
+- The notes are written for personal use and may contain errors.
+- The code is provided as-is for reference only. Please, respect the academic integrity policy and complete your assignments and projects on your own.
+- Teaching materials are not included, as they are the intellectual property of the respective instructors.
 
 All the notes are written in Markdown and exported to PDF, with the help of [Typora](https://typora.io/).
 
