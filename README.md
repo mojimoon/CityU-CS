@@ -6,11 +6,12 @@ This repository contains the notes and code for the courses I took in City Unive
 
 Please understand that:
 
-- The notes are written for personal use and may contain errors.
-- The code is provided as-is for reference only. Please, respect the academic integrity policy and complete your assignments and projects on your own.
-- Teaching materials are not included, as they are the intellectual property of the respective instructors.
+> [!WARNING]
+> - The notes are written for personal use and may contain errors.
+> - The code is provided as-is for educational purposes only. Please adhere to the principles of academic integrity.
+> - Teaching materials are not included, as they are the intellectual property of the respective instructors.
 
-All the notes are written in Markdown and exported to PDF, with the help of [Typora](https://typora.io/).
+All the notes are written in Markdown and exported to PDF with [Typora](https://typora.io/).
 
 ## Index
 
