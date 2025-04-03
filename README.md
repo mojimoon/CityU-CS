@@ -8,7 +8,7 @@ Please understand that:
 
 > [!WARNING]
 > - The notes are written for personal use and may contain errors.
-> - The code is provided as-is for educational purposes only. Please adhere to the principles of academic integrity.
+> - The code is provided for educational purposes only. Please adhere to the principles of academic integrity.
 > - Teaching materials are not included, as they are the intellectual property of the respective instructors.
 
 All the notes are written in Markdown and exported to PDF with [Typora](https://typora.io/).
