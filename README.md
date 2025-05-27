@@ -9,7 +9,7 @@ Please understand that:
 > [!WARNING]
 > - The notes are for personal study and may contain errors or omissions. Please use your own judgment when using them.  
 > - The code is provided for educational purposes only. Please adhere to academic integrity principles.  
-> - Copyrighted teaching materials are omitted from the repository.
+> - In an effort to respect the intellectual property of others, no copyrighted materials are included in this repository.
 
 ## Folder Structure
 
