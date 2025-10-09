@@ -34,10 +34,11 @@ Please understand that:
 | [CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm) | Computer Networks | [Project](./projects/CS3201/) | [Notes](./notes/CS3201_Computer_Networks.pdf) |
 | [CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm) | Data Structures | [Repository](https://github.com/gorandint/CS3334)<br>[Project](https://github.com/gorandint/CS3334/tree/main/Project) | [Notes](./notes/CS3334_Data_Structures.pdf)<br>[Review](./notes/CS3334_Data_Structures_Review.pdf) |
 | [CS3342](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm) | Software Design | [Project](./projects/CS3342/) | [Notes](./notes/CS3342_Software_Design.pdf)<br>[Review](./notes/CS3342_Software_Design_Review.pdf) |
-| [CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) | Software Engineering Practice | [Repository](https://github.com/gorandint/HKJourneyPlanner) | [Notes](./notes/CS3343_Software_Engineering_Practice.pdf) <br> [Review](./notes/CS3343_Software_Engineering_Practice_Review.pdf) |
+| [CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) | Software Engineering Practice | [Repository](https://github.com/gorandint/CS3343_HKJourneyPlanner) | [Notes](./notes/CS3343_Software_Engineering_Practice.pdf) <br> [Review](./notes/CS3343_Software_Engineering_Practice_Review.pdf) |
 | [CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) | Database Systems | | [Notes](./notes/CS3402_Database_Systems.pdf)<br>[Exercises](./notes/CS3402_Database_Systems_Exercises.pdf) |
 | [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | |
 | [CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) | Design and Analysis of Algorithms | | [Notes](./notes/CS4335_Design_and_Analysis_of_Algorithms.pdf) <br> [Review](./notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) |
+| [CS4514](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4514.htm) | Project | | |
 
 ### Major Electives
 
@@ -46,7 +47,14 @@ Please understand that:
 | [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Repository](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](./notes/CS4186_Computer_Vision_and_Image_Processing.pdf) <br> [Exercises](./notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) |
 | [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Repository](https://github.com/gorandint/CS4293) | [Notes](./notes/CS4293_Topics_in_Cybersecurity.pdf) |
 
-### University Requirements
+<!-- 
+
+| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Repository](https://github.com/gorandint/CS4182) | [Notes](./notes/CS4182_Computer_Graphics.pdf) |
+| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Repository](https://github.com/gorandint/CS4187) | [Notes](./notes/CS4187_Computer_Vision_for_Interactivity.pdf) |
+
+-->
+
+### University/College Requirements
 
 | Code | Course | References | Notes |
 | --- | --- | --- | --- |
@@ -59,12 +67,20 @@ Please understand that:
 | [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
 | [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | | [Notes](./notes/PHY1201_General_Physics_I.pdf) |
 
+<!--
+
+| [GE1501](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1501.htm) | Chinese Civilisation - History and Philosophy | | [Notes](./notes/GE1501_Chinese_Civilisation_History_and_Philosophy.pdf) |
+| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | | [Notes](./notes/GE2313_Global_IT_Case_Studies.pdf) |
+| [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing | | |
+
+-->
+
 ### Gateway Education
 
 | Code | Course | References | Notes |
 | --- | --- | --- | --- |
-| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](./notes/GE1305_Foundation_Physics.pdf) |
 | [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | | [Notes](./notes/GE1205_Green_Economics.pdf) |
+| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](./notes/GE1305_Foundation_Physics.pdf) |
 | [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | | [Notes](./notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](./notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](./notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](./notes/GE2262_Business_Statistics_Review.pdf) |
 
 ### Minor in Business Economics
