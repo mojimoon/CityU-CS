@@ -7,9 +7,9 @@ This repository contains my notes and projects for the Computer Science (CS) pro
 Please understand that:
 
 > [!WARNING]
-> - The notes are for personal study and may contain errors or omissions. Please use your own judgment when using them.  
+> - The notes are for personal study use and may not be complete or fully accurate. Always refer to official, up-to-date course materials provided by instructors.  
 > - The code is provided for educational purposes only. Please adhere to academic integrity principles.  
-> - In an effort to respect the intellectual property of others, no copyrighted materials are included in this repository.
+> - Copyrighted materials (e.g., course slides, textbooks) are not included.
 
 ## Folder Structure
 
@@ -92,7 +92,7 @@ Please understand that:
 
 ## See Also
 
-These repositories may be useful for your study:
+You might also want to check out these repositories related to the programme:
 
 - [jerrykhh/cityu](https://github.com/jerrykhh/cityu)
 - [dehezhang2/CityU_CS_Assignments](https://github.com/dehezhang2/CityU_CS_Assignments)
