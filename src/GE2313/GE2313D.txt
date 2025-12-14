@@ -1,0 +1,130 @@
+## 01 Smart City
+
+Smart city development in Hong Kong:
+https://www.youtube.com/watch?v=nJT9DxOSQWs
+Watch the videos with the following discussion question:
+• Which part of the video impresses or interests you the most?
+• Smart mobility (C-V2C)
+• Smart economy (Fintech)
+• Smart Living (AR technology, 5G)
+
+Hong Kong Smart City Blueprint – Smart Living
+https://www.smartcity.gov.hk/living.html
+Browse the website with the following questions:
+• What technology of the smart living area have you experiencedbeforeandactually find it make your life easier?
+• If you get a chance to work on this area, which subarea will you choose?
+
+## 02 Enabling Technologies for Smart Cities
+
+Internet of Things
+https://www.youtube.com/watch?v=6mBO2vqLv38
+Watch the video with the following question:
+• Can you think of an example about IoT technology in your daily life?• Home/campus/public area->Function->data->sensors
+• What’s your main concern about the IoT technology? its functionor itssafety?
+
+5G communications (3usecases)
+https://www.youtube.com/watch?v=BA6xpacxmvU&t=181s
+Watch the video with the following question:
+• eMBB (Enhanced Mobile Broadband)
+• mMTC (massive Machine Type Communication)
+• uRLLC (Ultra-Reliable Low Latency Communication)
+Selection one of the use cases and discuss its possible applicationscenario. (Human-to-Human, Human-to-Machine, Machine-to-Machine)
+
+Virtual/AugmentedReality
+https://www.youtube.com/watch?v=NOKJDCqvvMk
+Watch the video with the following question:
+• Which one do you prefer? VR or AR?
+• Can you list one difference between VR and AR?
+
+Augmented Reality and Virtual Reality are indispensable to the existenceandgrowth of the Metaverse. Watch the video and discuss:
+https://www.youtube.com/watch?v=lqR0u31UxAM
+• Do you have any experience with the metaverse?
+• If we can build a CityU Metaverse, what functionality would you like to have init?
+
+## 03 E-Government
+
+E-government
+Browse the website
+https://e-estonia.com/solutions/
+Select one of solutions & services e-Estonia and discuss how it differs from original
+government services?
+• e-Healthcare
+• e-Governance
+• Smart city and mobility
+• Business and Finance
+• Education and Research 
+
+Do you think that e-government can completely replace the original government
+services?
+• yes
+• no
+
+Browser the GovHK website for Online Services (Residents)
+https://www.gov.hk/en/residents/onlineservices/index.htm
+If you are working in the HK government and mainly focus on promoting the e
+government services, what aspect would you want to improve?
+• Employment issues (e.g., job vacancies, training courses)
+• Transportation related issues (e.g., driving license, traffic facilities issue report)
+• Housing & Social services (e.g., house renting, post services)
+• Taxes & Duties (e.g., file tax return, IRD (tax department) bill payment)
+• Immigration Services (e.g., VISA, passport, ID card application)
+
+What are the barriers of developing e-government?
+• high energy consumption, like electricity and network maintenance;
+• security issue
+• possibly difficult operations in online systems
+• lack of internet access
+
+## 04 Smart City Management
+
+medical service management
+How a high-tech drone fleet is changing medicine in Rwanda
+Https://www.Youtube.Com/watch?V=fjjbeltn4fo
+Select one application and discuss with your groupmate:
+• How can drones contribute to a smart city?
+• Shipping and delivery (the video)
+• Aerial photography
+• Geographic mapping
+• Disaster management
+• Precision agriculture
+• Wildlife monitoring
+• City security
+
+Demand side management
+• The role of Electricity Utilities in India’s low carbon development
+https://www.youtube.com/watch?v=RgGAMLRUH0E
+• A peak demand management example in Hong Kong
+Discuss with your groupmates:
+Would you like to join someDSMprograms?Why?
+
+## 05 Smart Energy
+
+Electric Cars vs. Petrol cars
+https://www.youtube.com/watch?v=Chp9VlSs25c
+Discuss with your groupmates:
+• Do you prefer a petrol car or electric car?
+• Which pollutes more? 
+
+renewable energy vs. fossil fuels
+https://www.youtube.com/watch?v=RnvCbquYeIM&t=10s
+Discuss with your groupmates:
+Can renewable energy replace fossil fuels?
+
+## 06 Smart Manufacturing
+
+3D printing (smart manufacturing)
+Will 3D Printing Ever Replace Traditional Manufacturing?
+https://www.quora.com/Will-3D-printing-ever-replace-conventional-manufacturing
+
+## 07 Smart Business
+
+Live stream e-commerce in China
+Watch the following video and answer the questions.
+https://www.youtube.com/watch?v=JQIV7GkQiqc
+What is the future of e-commerce?
+Will it one day replace the physical store?
+
+Recommender system
+Watch the following video and learn
+How Recommender Systems Work (Netflix/Amazon)
+https://www.youtube.com/watch?v=n3RKsY2H-NE
