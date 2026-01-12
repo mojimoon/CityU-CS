@@ -42,6 +42,11 @@ Please understand that:
 
 ### Major Electives
 
+> [!NOTE]  
+> I highly recommend planning your electives early, as some courses are only offered in specific semesters and may have prerequisites.  
+> e.g., CS4487 Machine Learning (only in Semester A) requires CS4486 Artificial Intelligence (only in Semester B) as a prerequisite, so you must take CS4486 in Year 3 Semester B to take CS4487 in Year 4 Semester A.  
+> All the electives I took do not have prerequisites beyond the major core courses.
+
 | Code | Course | References | Notes |
 | --- | --- | --- | --- |
 | [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Repository](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf) <br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) |
@@ -53,25 +58,30 @@ Please understand that:
 
 | Code | Course | References | Notes |
 | --- | --- | --- | --- |
-| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) |
 | [GE1401](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1401.htm) | University English | | |
 | [GE2410](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2410.htm) | English for Engineering | | |
 | [JC2066](https://www.cityu.edu.hk/catalogue/ug/current/course/JC2066.htm) | IT Professionals: Ethical, Legal and Social Issues | | [Notes](/notes/JC2066_IT_Professionals.pdf) |
 | [MA1300](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1300.htm) | Enhanced Calculus and Linear Algebra I | | [Notes](/notes/MA1300_Enhanced_Calculus_and_Linear_Algebra_I.pdf) |
 | [MA1301](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1301.htm) | Enhanced Calculus and Linear Algebra II | | |
-| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
 | [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | | [Notes](/notes/PHY1201_General_Physics_I.pdf) |
 | [GE1501](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1501.htm) | Chinese Civilisation - History and Philosophy | | [Notes](/notes/GE1501_Chinese_Civilisation_History_and_Philosophy.pdf) |
-| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf) <br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) |
+
+### Major Supporting Courses
+
+| Code | Course | References | Notes | Remarks |
+| --- | --- | --- | --- | --- |
+| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
 | [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing | | |
+| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) | CB[2100](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2100.htm)/[2300](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2300.htm)/[2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm)/[2601](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2601.htm) |
+| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf) <br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) | GE[2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm)/[2324](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2324.htm)/[2338](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2338.htm)/[2340](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2340.htm) |
 
 ### Gateway Education
 
-| Code | Course | References | Notes |
-| --- | --- | --- | --- |
-| [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | | [Notes](/notes/GE1205_Green_Economics.pdf) |
-| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](/notes/GE1305_Foundation_Physics.pdf) |
-| [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | | [Notes](/notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](/notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](/notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](/notes/GE2262_Business_Statistics_Review.pdf) |
+| Code | Course | References | Notes | Remarks |
+| --- | --- | --- | --- | --- |
+| [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | | [Notes](/notes/GE1205_Green_Economics.pdf) | Area 2 |
+| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](/notes/GE1305_Foundation_Physics.pdf) | Area 3 |
+| [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | | [Notes](/notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](/notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](/notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](/notes/GE2262_Business_Statistics_Review.pdf) | Area 2 |
 
 ### Minor in Business Economics
 
