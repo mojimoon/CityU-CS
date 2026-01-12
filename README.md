@@ -47,12 +47,21 @@ Please understand that:
 > e.g., CS4487 Machine Learning (only in Semester A) requires CS4486 Artificial Intelligence (only in Semester B) as a prerequisite, so you must take CS4486 in Year 3 Semester B prior to CS4487 in Year 4 Semester A.  
 > **All the electives I took do not have prerequisites** beyond the major core courses.
 
-| Code | Course | References | Notes |
-| --- | --- | --- | --- |
-| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Repository](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf) <br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) |
-| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Repository](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) |
-| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) |
-| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Repository](https://github.com/gorandint/CS4187) <br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) |
+| Code | Course | References | Notes | Remarks |
+| --- | --- | --- | --- | --- |
+| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Repository](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf) <br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) | only in Semester B |
+| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Repository](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | only in Semester B |
+| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | only in Semester A |
+| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Repository](https://github.com/gorandint/CS4187) <br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | only in Semester A |
+
+### Major Supporting
+
+| Code | Course | References | Notes | Remarks |
+| --- | --- | --- | --- | --- |
+| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
+| [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing | | |
+| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) | CB[2100](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2100.htm)/[2300](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2300.htm)/[2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm)/[2601](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2601.htm) |
+| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf) <br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) | GE[2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm)/[2324](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2324.htm)/[2338](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2338.htm)/[2340](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2340.htm) |
 
 ### University/College Requirements
 
@@ -65,15 +74,6 @@ Please understand that:
 | [MA1301](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1301.htm) | Enhanced Calculus and Linear Algebra II | | |
 | [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | | [Notes](/notes/PHY1201_General_Physics_I.pdf) |
 | [GE1501](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1501.htm) | Chinese Civilisation - History and Philosophy | | [Notes](/notes/GE1501_Chinese_Civilisation_History_and_Philosophy.pdf) |
-
-### Major Supporting Courses
-
-| Code | Course | References | Notes | Remarks |
-| --- | --- | --- | --- | --- |
-| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | |
-| [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing | | |
-| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) | CB[2100](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2100.htm)/[2300](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2300.htm)/[2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm)/[2601](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2601.htm) |
-| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf) <br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) | GE[2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm)/[2324](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2324.htm)/[2338](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2338.htm)/[2340](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2340.htm) |
 
 ### Gateway Education
 
