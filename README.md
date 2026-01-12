@@ -82,7 +82,5 @@ Please understand that:
 
 ## See Also
 
-Check out these other CityU CS repositories:
-
 - [jerrykhh/cityu](https://github.com/jerrykhh/cityu)
 - [dehezhang2/CityU_CS_Assignments](https://github.com/dehezhang2/CityU_CS_Assignments)
