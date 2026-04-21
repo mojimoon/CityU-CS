@@ -4,12 +4,12 @@ This repository contains my notes and projects for the Computer Science (CS) pro
 
 ## Disclaimer
 
-Please understand that:
+Before proceeding, please read the following disclaimers carefully:
 
 > [!WARNING]
-> - The notes are for personal study use and may not be complete or fully accurate. Always refer to official, up-to-date course materials provided by instructors.  
-> - The code is provided for educational purposes only. Please adhere to academic integrity principles.  
-> - Copyrighted materials (e.g., course slides, textbooks) are not included.
+> 1. We are not liable for any inaccuracies or errors in the notes, as they are intended for personal study use only.  
+> 2. We are strictly against any form of academic dishonesty. The code is provided for educational purposes only, please use it responsibly and adhere to academic integrity principles.  
+> 3. We are strictly against copyright infringement. Copyrighted materials such as course slides and textbooks are not included in this repository.
 
 ## Repository Structure
 
