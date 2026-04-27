@@ -53,6 +53,9 @@ Before proceeding, please read the following disclaimers carefully:
 | [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Repository](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | only in Sem B |
 | [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | only in Sem A |
 | [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Repository](https://github.com/gorandint/CS4187) <br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | only in Sem A |
+| [CS3481](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | Fundamentals of Data Science | [Repository](https://github.com/gorandint/CS3481) | [Notes](/notes/CS3481_Fundamentals_of_Data_Science.pdf) <br> [Tutorial](/notes/CS3481_Fundamentals_of_Data_Science_Tutorial.pdf) | only in Sem B |
+| [CS4386](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4386.htm) | AI Game Programming | [Repository](https://github.com/gorandint/CS4386) | [Notes](/notes/CS4386_AI_Game_Programming.pdf) <br> [Tutorial](/notes/CS4386_AI_Game_Programming_Tutorial.pdf) | only in Sem B |
+| [CS4486](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | Artificial Intelligence | [Repository](https://github.com/mojimoon/CS4486_Lunar_Lander) | [Notes](/notes/CS4486_Artificial_Intelligence.pdf) | only in Sem B |
 
 ### Major Supporting
 
@@ -79,6 +82,7 @@ Before proceeding, please read the following disclaimers carefully:
 
 | Code | Course | References | Notes | Remarks |
 | --- | --- | --- | --- | --- |
+| [GE1137](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1137.htm) | Movies and Psychology | | [Notes](/notes/GE1137_Movies_and_Psychology.pdf) | Area 1 |
 | [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | | [Notes](/notes/GE1205_Green_Economics.pdf) | Area 2 |
 | [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | | [Notes](/notes/GE1305_Foundation_Physics.pdf) | Area 3 |
 | [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | | [Notes](/notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](/notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](/notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](/notes/GE2262_Business_Statistics_Review.pdf) | Area 2 |
