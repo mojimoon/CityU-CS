@@ -1,4 +1,6 @@
-# CityU CS <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="81px" height="20px" src="https://ghbtns.com/github-btn.html?user=mojimoon&repo=MojiApps&type=star&count=true" ></iframe>
+# CityU CS 
+
+<iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="81px" height="20px" src="https://ghbtns.com/github-btn.html?user=mojimoon&repo=CityU-CS&type=star&count=true" ></iframe>
 
 This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), providing a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, algorithms, data structures, computer vision/graphics, machine learning, and more.
 
