@@ -1,6 +1,6 @@
 # CityU CS
 
-This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU). The notes are organized by course, providing a comprehensive overview of the curriculum and serving as a reference for future students.
+This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), providing a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, algorithms, data structures, computer vision/graphics, machine learning, and more.
 
 ## Disclaimer
 
