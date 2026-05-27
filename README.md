@@ -1,6 +1,6 @@
 # CityU CS
 
-This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU). The notes are organized by course, providing a comprehensive overview of the curriculum and serving as a reference for future students.
+This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), aiming to provide a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, algorithms, data structures, CV/CG, ML/AI, and more.
 
 ## Disclaimer
 
@@ -19,26 +19,28 @@ You are welcome to use the notes in this repository for your personal study and 
 
 ## Courses
 
+The courses are first categorized by their nature and then sorted by course code. You can read the notes in either PDF or on [GitHub Pages](https://mojimoon.github.io/CityU-CS/).
+
 ### Major Core
 
-| Code | Course | Code | Notes | Remarks |
-| --- | --- | --- | --- | --- |
-| [CS1302](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm) | Introduction to Computer Programming (Python) | [Archive](https://github.com/gorandint/CS1302) | [Notes](/notes/CS1302_Introduction_to_Computer_Programming.pdf) | Year 1 Sem A |
-| [CS2115](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2115.htm) | Computer Organization | | [Notes](/notes/CS2115_Computer_Organization.pdf)<br>[Review](/notes/CS2115_Computer_Organization_Review.pdf) | Year 2 Sem A |
-| [CS2204](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm) | Fundamentals of Internet Applications Development | [Project](https://github.com/gorandint/CS2204)<br>[Website](https://gorandint.github.io/CS2204/) | [Notes](/notes/CS2204_Fundamentals_of_Internet_Applications_Development.pdf) | Year 1 Sem B |
-| [CS2310](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2310.htm) | Computer Programming (C++) | [Archive](https://github.com/gorandint/CS2310) | [Notes](/notes/CS2310_Computer_Programming.pdf) | Year 1 Sem B |
-| [CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm) | Problem Solving and Programming (Java) | | [Notes](/notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](/notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) | Year 2 Sem A |
-| [CS2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2402.htm) | Introduction to Computational Probability Modelling | | [Notes](/notes/CS2402_Introduction_to_Computational_Probability_Modelling.pdf) | Year 1 Sem B |
-| [CS2611](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2611.htm) | Seminars on Contemporary Technologies I | | | Year 2 |
-| [CS3103](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3103.htm) | Operating Systems | [Project](https://github.com/Soohti/basekernel) | [Notes](/notes/CS3103_Operating_Systems.pdf)<br>[Tutorial](/notes/CS3103_Operating_Systems_Tutorial.pdf)<br>[Exercises](/notes/CS3103_Operating_Systems_Assignment.pdf) | Year 2 Sem B |
-| [CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm) | Computer Networks | [Project](/projects/CS3201/) | [Notes](/notes/CS3201_Computer_Networks.pdf) | Year 2 Sem A |
-| [CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm) | Data Structures | [Archive](https://github.com/gorandint/CS3334)<br>[Project](https://github.com/gorandint/CS3334/tree/main/Project) | [Notes](/notes/CS3334_Data_Structures.pdf)<br>[Review](/notes/CS3334_Data_Structures_Review.pdf) | Year 2 Sem A |
-| [CS3342](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm) | Software Design | [Project](/projects/CS3342/) | [Notes](/notes/CS3342_Software_Design.pdf)<br>[Review](/notes/CS3342_Software_Design_Review.pdf) | Year 2 Sem B |
-| [CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) | Software Engineering Practice | [Project](https://github.com/gorandint/CS3343_HKJourneyPlanner) | [Notes](/notes/CS3343_Software_Engineering_Practice.pdf)<br>[Review](/notes/CS3343_Software_Engineering_Practice_Review.pdf) | Year 3 Sem A |
-| [CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) | Database Systems | | [Notes](/notes/CS3402_Database_Systems.pdf)<br>[Exercises](/notes/CS3402_Database_Systems_Exercises.pdf) | Year 2 Sem B |
-| [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | | Year 3 |
-| [CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) | Design and Analysis of Algorithms | | [Notes](/notes/CS4335_Design_and_Analysis_of_Algorithms.pdf)<br>[Review](/notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) | Year 3 Sem A |
-| [CS4514](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4514.htm) | Project | | | Year 4 |
+| Code | Course | Code | PDF | Web | Remarks |
+| --- | --- | --- | --- | --- | --- |
+| [CS1302](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm) | Introduction to Computer Programming (Python) | [Archive](https://github.com/gorandint/CS1302) | [Notes](/notes/CS1302_Introduction_to_Computer_Programming.pdf) | [Notes](/src/CS1302/CS1302) | Year 1 Sem A |
+| [CS2115](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2115.htm) | Computer Organization | | [Notes](/notes/CS2115_Computer_Organization.pdf)<br>[Review](/notes/CS2115_Computer_Organization_Review.pdf) | [Notes](/src/CS2115/CS2115)<br>[Review](/src/CS2115/CS2115_extra) | Year 2 Sem A |
+| [CS2204](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm) | Fundamentals of Internet Applications Development | [Project](https://github.com/gorandint/CS2204)<br>[Website](https://gorandint.github.io/CS2204/) | [Notes](/notes/CS2204_Fundamentals_of_Internet_Applications_Development.pdf) | [Notes](/src/CS2204/CS2204) | Year 1 Sem B |
+| [CS2310](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2310.htm) | Computer Programming (C++) | [Archive](https://github.com/gorandint/CS2310) | [Notes](/notes/CS2310_Computer_Programming.pdf) | [Notes](/src/CS2310/CS2310) | Year 1 Sem B |
+| [CS2312](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2312.htm) | Problem Solving and Programming (Java) | | [Notes](/notes/CS2312_Problem_Solving_and_Programming.pdf)<br>[Exercises](/notes/CS2312_Problem_Solving_and_Programming_Exercises.pdf) | [Notes](/src/CS2312/CS2312)<br>[Exercises](/src/CS2312/CS2312LE) | Year 2 Sem A |
+| [CS2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2402.htm) | Introduction to Computational Probability Modelling | | [Notes](/notes/CS2402_Introduction_to_Computational_Probability_Modelling.pdf) | [Notes](/src/CS2402/CS2402) | Year 1 Sem B |
+| [CS2611](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2611.htm) | Seminars on Contemporary Technologies I | | | | Year 2 |
+| [CS3103](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3103.htm) | Operating Systems | [Project](https://github.com/Soohti/basekernel) | [Notes](/notes/CS3103_Operating_Systems.pdf)<br>[Tutorial](/notes/CS3103_Operating_Systems_Tutorial.pdf)<br>[Exercises](/notes/CS3103_Operating_Systems_Assignment.pdf) | [Notes](/src/CS3103/CS3103)<br>[Tutorial](/src/CS3103/CS3103T)<br>[Exercises](/src/CS3103/CS3103A) | Year 2 Sem B |
+| [CS3201](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm) | Computer Networks | [Project](/projects/CS3201/) | [Notes](/notes/CS3201_Computer_Networks.pdf) | [Notes](/src/CS3201/CS3201) | Year 2 Sem A |
+| [CS3334](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm) | Data Structures | [Archive](https://github.com/gorandint/CS3334)<br>[Project](https://github.com/gorandint/CS3334/tree/main/Project) | [Notes](/notes/CS3334_Data_Structures.pdf)<br>[Review](/notes/CS3334_Data_Structures_Review.pdf) | [Notes](/src/CS3334/CS3334)<br>[Review](/src/CS3334/CS3334MID) | Year 2 Sem A |
+| [CS3342](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm) | Software Design | [Project](/projects/CS3342/) | [Notes](/notes/CS3342_Software_Design.pdf)<br>[Review](/notes/CS3342_Software_Design_Review.pdf) | [Notes](/src/CS3342/CS3342)<br>[Review](/src/CS3342/CS3342R) | Year 2 Sem B |
+| [CS3343](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) | Software Engineering Practice | [Project](https://github.com/gorandint/CS3343_HKJourneyPlanner) | [Notes](/notes/CS3343_Software_Engineering_Practice.pdf)<br>[Review](/notes/CS3343_Software_Engineering_Practice_Review.pdf) | [Notes](/src/CS3343/CS3343)<br>[Review](/src/CS3343/CS3343R) | Year 3 Sem A |
+| [CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) | Database Systems | | [Notes](/notes/CS3402_Database_Systems.pdf)<br>[Exercises](/notes/CS3402_Database_Systems_Exercises.pdf) | [Notes](/src/CS3402/CS3402)<br>[Exercises](/src/CS3402/CS3402EX) | Year 2 Sem B |
+| [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | | | Year 3 |
+| [CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) | Design and Analysis of Algorithms | | [Notes](/notes/CS4335_Design_and_Analysis_of_Algorithms.pdf)<br>[Review](/notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) | [Notes](/src/CS4335/CS4335)<br>[Review](/src/CS4335/CS4335R) | Year 3 Sem A |
+| [CS4514](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4514.htm) | Project | | | | Year 4 |
 
 ### Major Electives
 
@@ -47,36 +49,36 @@ You are welcome to use the notes in this repository for your personal study and 
 > e.g., CS4487 Machine Learning (only in Sem A) requires CS3481 Fundamentals of Data Science (only in Sem B) or CS4486 Artificial Intelligence (only in Sem B) as a prerequisite. To enroll in CS4487 in Year 4 Sem A, you must take either CS3481 or CS4486 in Year 3 Sem B.  
 > **All the electives I took do not have prerequisites** beyond the major core courses.
 
-| Code | Course | Code | Notes | Remarks |
-| --- | --- | --- | --- | --- |
-| [CS3481](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | Fundamentals of Data Science | [Archive](https://github.com/gorandint/CS3481) | [Notes](/notes/CS3481_Fundamentals_of_Data_Science.pdf)<br>[Tutorial](/notes/CS3481_Fundamentals_of_Data_Science_Tutorial.pdf) | Only in Sem B |
-| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | Only in Sem A |
-| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Project](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf)<br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) | Only in Sem B |
-| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Archive](https://github.com/gorandint/CS4187)<br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | Only in Sem A |
-| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Archive](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | Only in Sem B |
-| [CS4386](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4386.htm) | AI Game Programming | [Archive](https://github.com/gorandint/CS4386) | [Notes](/notes/CS4386_AI_Game_Programming.pdf)<br>[Tutorial](/notes/CS4386_AI_Game_Programming_Tutorial.pdf) | Only in Sem B |
-| [CS4486](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | Artificial Intelligence | [Project](https://github.com/mojimoon/CS4486_Lunar_Lander) | [Notes](/notes/CS4486_Artificial_Intelligence.pdf) | Only in Sem B |
+| Code | Course | Code | PDF | Web | Remarks |
+| --- | --- | --- | --- | --- | --- |
+| [CS3481](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | Fundamentals of Data Science | [Archive](https://github.com/gorandint/CS3481) | [Notes](/notes/CS3481_Fundamentals_of_Data_Science.pdf)<br>[Tutorial](/notes/CS3481_Fundamentals_of_Data_Science_Tutorial.pdf) | [Notes](/src/CS3481/CS3481)<br>[Tutorial](/src/CS3481/CS3481T) | Only in Sem B |
+| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | [Notes](/src/CS4182/CS4182) | Only in Sem A |
+| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Project](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf)<br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) | [Notes](/src/CS4186/CS4186)<br>[Exercises](/src/CS4186/CS4186Ex) | Only in Sem B |
+| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Archive](https://github.com/gorandint/CS4187)<br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | [Notes](/src/CS4187/CS4187) | Only in Sem A |
+| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Archive](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | [Notes](/src/CS4293/CS4293) | Only in Sem B |
+| [CS4386](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4386.htm) | AI Game Programming | [Archive](https://github.com/gorandint/CS4386) | [Notes](/notes/CS4386_AI_Game_Programming.pdf)<br>[Tutorial](/notes/CS4386_AI_Game_Programming_Tutorial.pdf) | [Notes](/src/CS4386/CS4386)<br>[Tutorial](/src/CS4386/CS4386T) | Only in Sem B |
+| [CS4486](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | Artificial Intelligence | [Project](https://github.com/mojimoon/CS4486_Lunar_Lander) | [Notes](/notes/CS4486_Artificial_Intelligence.pdf) | [Notes](/src/CS4486/CS4486) | Only in Sem B |
 
 ### Major Supporting
 
-| Code | Course | Notes | Remarks |
-| --- | --- | --- | --- |
-| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics | | Year 2 Sem A |
-| [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing | | Year 4 Sem A |
-| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) | CB[2100](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2100.htm)/[2300](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2300.htm)/[2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm)/[2601](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2601.htm) |
-| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf)<br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) | GE[2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm)/[2324](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2324.htm)/[2338](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2338.htm)/[2340](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2340.htm) |
+| Code | Course | PDF | Web | Remarks |
+| --- | --- | --- | --- | --- |
+| [MA2185](https://www.cityu.edu.hk/catalogue/ug/current/course/MA2185.htm) | Discrete Mathematics |  |  | Year 2 Sem A |
+| [EN4262](https://www.cityu.edu.hk/catalogue/ug/current/course/EN4262.htm) | English Communication Skills for Computing |  |  | Year 4 Sem A |
+| [CB2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm) | Information Management | [Notes](/notes/CB2500_Information_Management.pdf)<br>[Discussions](/notes/CB2500_Information_Management_Discussions.pdf)<br>[Quiz](/notes/CB2500_Information_Management_Quiz.pdf)<br>[Review](/notes/CB2500_Information_Management_Review.pdf) | [Notes](/src/CB2500/CB2500)<br>[Discussions](/src/CB2500/CB2500D)<br>[Quiz](/src/CB2500/CB2500Q)<br>[Review](/src/CB2500/CB2500R) | CB[2100](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2100.htm)/[2300](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2300.htm)/[2500](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2500.htm)/[2601](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2601.htm) |
+| [GE2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm) | Global IT Case Studies | [Notes](/notes/GE2313_Global_IT_Case_Studies.pdf)<br>[Review](/notes/GE2313_Global_IT_Case_Studies_Review.pdf) | [Notes](/src/GE2313/GE2313)<br>[Review](/src/GE2313/GE2313R) | GE[2313](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2313.htm)/[2324](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2324.htm)/[2338](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2338.htm)/[2340](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2340.htm) |
 
 ### University/College Requirements
 
-| Code | Course | Notes | Remarks |
-| --- | --- | --- | --- |
-| [GE1401](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1401.htm) | University English | | Year 1 Sem A |
-| [GE2410](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2410.htm) | English for Engineering | | Year 1 Sem B |
-| [JC2066](https://www.cityu.edu.hk/catalogue/ug/current/course/JC2066.htm) | IT Professionals: Ethical, Legal and Social Issues | [Notes](/notes/JC2066_IT_Professionals.pdf) | Year 1 Sem A |
-| [MA1300](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1300.htm) | Enhanced Calculus and Linear Algebra I | [Notes](/notes/MA1300_Enhanced_Calculus_and_Linear_Algebra_I.pdf) | Year 1 Sem A |
-| [MA1301](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1301.htm) | Enhanced Calculus and Linear Algebra II | | Year 1 Sem B |
-| [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | [Notes](/notes/PHY1201_General_Physics_I.pdf) | Year 1 Sem A |
-| [GE1501](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1501.htm) | Chinese Civilisation - History and Philosophy | [Notes](/notes/GE1501_Chinese_Civilisation_History_and_Philosophy.pdf) |
+| Code | Course | PDF | Web | Remarks |
+| --- | --- | --- | --- | --- |
+| [GE1401](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1401.htm) | University English |  |  | Year 1 Sem A |
+| [GE2410](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2410.htm) | English for Engineering |  |  | Year 1 Sem B |
+| [JC2066](https://www.cityu.edu.hk/catalogue/ug/current/course/JC2066.htm) | IT Professionals: Ethical, Legal and Social Issues | [Notes](/notes/JC2066_IT_Professionals.pdf) | [Notes](/src/JC2066/JC2066) | Year 1 Sem A |
+| [MA1300](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1300.htm) | Enhanced Calculus and Linear Algebra I | [Notes](/notes/MA1300_Enhanced_Calculus_and_Linear_Algebra_I.pdf) | [Notes](/src/MA1300/MA1300) | Year 1 Sem A |
+| [MA1301](https://www.cityu.edu.hk/catalogue/ug/current/course/MA1301.htm) | Enhanced Calculus and Linear Algebra II |  |  | Year 1 Sem B |
+| [PHY1201](https://www.cityu.edu.hk/catalogue/ug/current/course/PHY1201.htm) | General Physics I | [Notes](/notes/PHY1201_General_Physics_I.pdf) | [Notes](/src/PHY1201/PHY1201) | Year 1 Sem A |
+| [GE1501](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1501.htm) | Chinese Civilisation - History and Philosophy | [Notes](/notes/GE1501_Chinese_Civilisation_History_and_Philosophy.pdf) | [Notes](/src/GE1501/GE1501) | |
 
 ### Gateway Education
 
@@ -85,19 +87,19 @@ You are welcome to use the notes in this repository for your personal study and 
 > For recommendations on GE courses, please refer to [cityuge.com](https://cityuge.com/), which provides detailed information such as course content, workload, grade distribution, and student reviews.  
 > Please also check out [the official GE course list](https://www.cityu.edu.hk/ge_info/Search/) as the courses offered change every semester.
 
-| Code | Course | Notes | Remarks |
-| --- | --- | --- | --- |
-| [GE1137](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1137.htm) | Movies and Psychology | [Notes](/notes/GE1137_Movies_and_Psychology.pdf)<br>[Discussions](/notes/GE1137_Movies_and_Psychology_Discussions.pdf) | Area 1 |
-| [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | [Notes](/notes/GE1205_Green_Economics.pdf) | Area 2 |
-| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | [Notes](/notes/GE1305_Foundation_Physics.pdf) | Area 3 |
-| [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | [Notes](/notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](/notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](/notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](/notes/GE2262_Business_Statistics_Review.pdf) | Area 2 |
+| Code | Course | PDF | Web | Remarks |
+| --- | --- | --- | --- | --- |
+| [GE1137](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1137.htm) | Movies and Psychology | [Notes](/notes/GE1137_Movies_and_Psychology.pdf)<br>[Discussions](/notes/GE1137_Movies_and_Psychology_Discussions.pdf) | [Notes](/src/GE1137/GE1137)<br>[Discussions](/src/GE1137/GE1137D) | Area 1 |
+| [GE1205](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1205.htm) | Green Economics | [Notes](/notes/GE1205_Green_Economics.pdf) | [Notes](/src/GE1205/GE1205) | Area 2 |
+| [GE1305](https://www.cityu.edu.hk/catalogue/ug/current/course/GE1305.htm) | Foundation Physics | [Notes](/notes/GE1305_Foundation_Physics.pdf) | [Notes](/src/GE1305/GE1305) | Area 3 |
+| [GE2262](https://www.cityu.edu.hk/catalogue/ug/current/course/GE2262.htm) | Business Statistics | [Notes](/notes/GE2262_Business_Statistics.pdf)<br>[Tutorial](/notes/GE2262_Business_Statistics_Tutorial.pdf)<br>[Quiz](/notes/GE2262_Business_Statistics_Quiz.pdf)<br>[Review](/notes/GE2262_Business_Statistics_Review.pdf) | [Notes](/src/GE2262/GE2262)<br>[Tutorial](/src/GE2262/GE2262T)<br>[Quiz](/src/GE2262/GE2262Q)<br>[Review](/src/GE2262/GE2262%20REV) | Area 2 |
 
 ### Minor in Business Economics
 
-| Code | Course | Notes |
-| --- | --- | --- |
-| [CB2400](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2400.htm) | Microeconomics | [Notes](/notes/CB2400_Microeconomics.pdf)<br>[Exercises](/notes/CB2400_Microeconomics_Exercises.pdf) |
-| [CB2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2402.htm) | Macroeconomics | [Notes](/notes/CB2402_Macroeconomics.pdf)<br>[Exercises](/notes/CB2402_Macroeconomics_Exercises.pdf)<br>[Review](/notes/CB2402_Macroeconomics_Review.pdf) |
+| Code | Course | PDF | Web |
+| --- | --- | --- | --- |
+| [CB2400](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2400.htm) | Microeconomics | [Notes](/notes/CB2400_Microeconomics.pdf)<br>[Exercises](/notes/CB2400_Microeconomics_Exercises.pdf) | [Notes](/src/CB2400/CB2400)<br>[Exercises](/src/CB2400/CB2400EX) |
+| [CB2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2402.htm) | Macroeconomics | [Notes](/notes/CB2402_Macroeconomics.pdf)<br>[Exercises](/notes/CB2402_Macroeconomics_Exercises.pdf)<br>[Review](/notes/CB2402_Macroeconomics_Review.pdf) | [Notes](/src/CB2402/CB2402)<br>[Exercises](/src/CB2402/CB2402Ex)<br>[Review](/src/CB2402/CB2402Re) |
 
 ## See Also
 
