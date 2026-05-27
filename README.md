@@ -1,10 +1,10 @@
 # CityU CS 
 
-<iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="81px" height="20px" src="https://ghbtns.com/github-btn.html?user=mojimoon&repo=CityU-CS&type=star&count=true" ></iframe>
+[![](https://img.shields.io/github/stars/mojimoon/CityU-CS)](https://github.com/mojimoon/CityU-CS)
 
 This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), providing a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, algorithms, data structures, computer vision/graphics, machine learning, and more.
 
-**With a GPA of 4.12/4.3 and a major GPA of 4.17/4.3, I graduated with summa cum laude and received the Dean's List Award for 7 semesters. I have also been awarded the HKSAR Government Scholarship for Outstanding Performance for 2 consecutive years.** [View the transcript](#transcript). I hope that the notes and projects reflect my dedication and commitment to academic excellence, and that they can serve as a valuable resource for fellow students.
+**With a GPA of 4.12/4.3 and a major GPA of 4.17/4.3, I graduated with summa cum laude and received the Dean's List Award for 7 semesters. I have also been awarded the HKSAR Government Scholarship for Outstanding Performance for 2 consecutive years.** [Transcript available here](#transcript). I hope that the notes and projects reflect my dedication and commitment to academic excellence, and that they can serve as a valuable resource for fellow students.
 
 If you find this repository helpful, please consider giving it a star. If you have any questions or suggestions, feel free to open an issue or contact me.
 
@@ -107,7 +107,7 @@ You are welcome to use the notes in this repository for your personal study and 
 
 ## Transcript
 
-![](/transcript.png)
+<img src="/transcript.png" alt="Transcript" width="80%">
 
 ## See Also
 
