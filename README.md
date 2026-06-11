@@ -2,9 +2,9 @@
 
 [![](https://img.shields.io/github/stars/mojimoon/CityU-CS)](https://github.com/mojimoon/CityU-CS)
 
-This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), providing a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, algorithms, data structures, computer vision/graphics, machine learning, and more.
+This repository contains personal notes and projects for the BSc Computer Science (CS) programme at City University of Hong Kong (CityU), providing a comprehensive reference for current and prospective students. The notes are organized by course and cover a wide range of topics in computer science, including programming languages, data structures and algorithms, software engineering, artificial intelligence, and more.
 
-**With a GPA of 4.12/4.3 and a major GPA of 4.17/4.3, I graduated with summa cum laude and received the Dean's List Award for 7 semesters. I have also been awarded the HKSAR Government Scholarship for Outstanding Performance for 2 consecutive years.** [Transcript available here](#transcript). I hope that the notes and projects reflect my dedication and commitment to academic excellence, and that they can serve as a valuable resource for fellow students.
+**With a GPA of 4.12/4.3 and a major GPA of 4.17/4.3, I graduated with summa cum laude and received the Dean's List Award for 7 semesters. I have also been awarded the HKSAR Government Scholarship for Outstanding Performance for 2 consecutive years.** [Transcript available here](#transcript). Hopefully, the notes and projects in this repository can help you excel in your studies and achieve similar success.
 
 If you find this repository helpful, please consider giving it a star. If you have any questions or suggestions, feel free to open an issue or contact me.
 
