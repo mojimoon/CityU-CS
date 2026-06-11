@@ -44,7 +44,7 @@ You are welcome to use the notes in this repository for your personal study and 
 | [CS3402](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) | Database Systems | | [Notes](/notes/CS3402_Database_Systems.pdf)<br>[Exercises](/notes/CS3402_Database_Systems_Exercises.pdf) | Year 2 Sem B |
 | [CS3504](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3504.htm) | IT Professional Placement | | | Year 3 |
 | [CS4335](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) | Design and Analysis of Algorithms | | [Notes](/notes/CS4335_Design_and_Analysis_of_Algorithms.pdf)<br>[Review](/notes/CS4335_Design_and_Analysis_of_Algorithms_Review.pdf) | Year 3 Sem A |
-| [CS4514](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4514.htm) | Project | | | Year 4 |
+| [CS4514](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4514.htm) | Project | [Project](#final-year-project) | | Year 4 |
 
 ### Major Electives
 
@@ -104,6 +104,14 @@ You are welcome to use the notes in this repository for your personal study and 
 | --- | --- | --- |
 | [CB2400](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2400.htm) | Microeconomics | [Notes](/notes/CB2400_Microeconomics.pdf)<br>[Exercises](/notes/CB2400_Microeconomics_Exercises.pdf) |
 | [CB2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2402.htm) | Macroeconomics | [Notes](/notes/CB2402_Macroeconomics.pdf)<br>[Exercises](/notes/CB2402_Macroeconomics_Exercises.pdf)<br>[Review](/notes/CB2402_Macroeconomics_Review.pdf) |
+
+## Final Year Project
+
+Repository: [mojimoon/DSFANet](https://github.com/mojimoon/DSFANet)
+
+The escalating complexity of cyber threats and the phenomenon of concept drift pose significant challenges to traditional Intrusion Detection Systems (IDSs). This project presents a robust, ensemble-based anomaly detection framework that enhances detection accuracy, adaptability, and interpretability in dynamic network environments. The core contribution is the **Dual-Stream Feature Aggregation Network (DSFANet)**, a novel deep learning architecture that decouples static packet-level features and temporal flow dynamics into parallel processing streams, fused via a multi-head attention mechanism. To address evolving attack patterns, the system employs the **Ensemble-Based Adaptive Sample Selection** strategy for incremental retraining, leveraging uncertainty and diversity metrics to efficiently mitigate concept drift caused by adversarial attacks and natural shifts.
+
+Extensive experiments on three benchmark datasets (UNSW-NB15, CIC-IDS 2018, and ToN-IoT) demonstrate that the proposed stacking ensemble, integrating DSFANet with traditional models (Random Forest, SGD) and other deep learning models (Autoencoder, LSTM), achieves superior performance with an accuracy up to 99.64% and significantly higher Average Precision compared to individual models. Ablation studies confirm the contribution of dual-stream architecture in DSFANet, and extensive parameter analysis of the retraining strategy reveals the effectiveness of retraining budget and selection metrics. Furthermore, case studies reveal the system's unique ability to detect low-and-slow DDoS patterns that traditional models often miss. A user-friendly web dashboard was also developed to visualize real-time alerts, model explainability (feature importance and SHAP distribution), and retraining effects, demonstrating the system's practical applicability in real-world scenarios.
 
 ## Transcript
 
