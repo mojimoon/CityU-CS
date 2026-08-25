@@ -115,7 +115,7 @@ Extensive experiments on three benchmark datasets (UNSW-NB15, CIC-IDS 2018, and 
 
 ## Transcript
 
-<img src="/transcript.png" alt="Transcript" width="80%">
+<img src="https://gcore.jsdelivr.net/gh/mojimoon/CityU-CS@main/transcript.png" alt="Transcript" width="80%">
 
 ## See Also
 
