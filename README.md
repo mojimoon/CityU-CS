@@ -50,18 +50,18 @@ You are welcome to use the notes in this repository for your personal study and 
 
 > [!NOTE]  
 > **I highly recommend planning your electives early**, as some courses are only offered in specific semesters and may have prerequisites.  
-> e.g., CS4487 Machine Learning (only in Sem A) requires CS3481 Fundamentals of Data Science (only in Sem B) or CS4486 Artificial Intelligence (only in Sem B) as a prerequisite. To enroll in CS4487 in Year 4 Sem A, you must take either CS3481 or CS4486 in Year 3 Sem B.  
+> e.g., CS4487 Machine Learning (Sem A only) requires CS3481 Fundamentals of Data Science (Sem B only) or CS4486 Artificial Intelligence (Sem B only) as a prerequisite. To enroll in CS4487 in Year 4 Sem A, you must take either CS3481 or CS4486 in Year 3 Sem B.  
 > **All the electives I took do not have prerequisites** beyond the major core courses.
 
 | Code | Course | Code | Notes | Remarks |
 | --- | --- | --- | --- | --- |
-| [CS3481](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | Fundamentals of Data Science | [Archive](https://github.com/gorandint/CS3481) | [Notes](/notes/CS3481_Fundamentals_of_Data_Science.pdf)<br>[Tutorial](/notes/CS3481_Fundamentals_of_Data_Science_Tutorial.pdf) | Sem B |
-| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | Sem A |
-| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Project](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf)<br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) | Sem B |
-| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Archive](https://github.com/gorandint/CS4187)<br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | Sem A |
-| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Archive](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | Sem B |
-| [CS4386](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4386.htm) | AI Game Programming | [Archive](https://github.com/gorandint/CS4386) | [Notes](/notes/CS4386_AI_Game_Programming.pdf)<br>[Tutorial](/notes/CS4386_AI_Game_Programming_Tutorial.pdf) | Sem B |
-| [CS4486](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | Artificial Intelligence | [Project](https://github.com/mojimoon/CS4486_Lunar_Lander) | [Notes](/notes/CS4486_Artificial_Intelligence.pdf) | Sem B |
+| [CS3481](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | Fundamentals of Data Science | [Archive](https://github.com/gorandint/CS3481) | [Notes](/notes/CS3481_Fundamentals_of_Data_Science.pdf)<br>[Tutorial](/notes/CS3481_Fundamentals_of_Data_Science_Tutorial.pdf) | Sem B only |
+| [CS4182](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4182.htm) | Computer Graphics | [Project](https://github.com/mojimoon/CS4182_3DJeepGame) | [Notes](/notes/CS4182_Computer_Graphics.pdf) | Sem A only |
+| [CS4186](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) | Computer Vision and Image Processing | [Project](https://github.com/mojimoon/CS4186_InstanceSearch) | [Notes](/notes/CS4186_Computer_Vision_and_Image_Processing.pdf)<br>[Exercises](/notes/CS4186_Computer_Vision_and_Image_Processing_Exercises.pdf) | Sem B only |
+| [CS4187](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) | Computer Vision for Interactivity | [Archive](https://github.com/gorandint/CS4187)<br>[Project](https://github.com/mojimoon/CS4187_HandDance) | [Notes](/notes/CS4187_Computer_Vision_for_Interactivity.pdf) | Sem A only |
+| [CS4293](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4293.htm) | Topics in Cybersecurity | [Archive](https://github.com/gorandint/CS4293) | [Notes](/notes/CS4293_Topics_in_Cybersecurity.pdf) | Sem B only |
+| [CS4386](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4386.htm) | AI Game Programming | [Archive](https://github.com/gorandint/CS4386) | [Notes](/notes/CS4386_AI_Game_Programming.pdf)<br>[Tutorial](/notes/CS4386_AI_Game_Programming_Tutorial.pdf) | Sem B only |
+| [CS4486](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | Artificial Intelligence | [Project](https://github.com/mojimoon/CS4486_Lunar_Lander) | [Notes](/notes/CS4486_Artificial_Intelligence.pdf) | Sem B only |
 
 ### Major Supporting
 
