@@ -105,6 +105,14 @@ You are welcome to use the notes in this repository for your personal study and 
 | [CB2400](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2400.htm) | Microeconomics | [Notes](/notes/CB2400_Microeconomics.pdf)<br>[Exercises](/notes/CB2400_Microeconomics_Exercises.pdf) |
 | [CB2402](https://www.cityu.edu.hk/catalogue/ug/current/course/CB2402.htm) | Macroeconomics | [Notes](/notes/CB2402_Macroeconomics.pdf)<br>[Exercises](/notes/CB2402_Macroeconomics_Exercises.pdf)<br>[Review](/notes/CB2402_Macroeconomics_Review.pdf) |
 
+## Course Reviews
+
+Several course reviews are available on the author's blog, providing insights into the course content, workload, and usefulness:
+
+- [JC2066 IT Professionals: Ethical, Legal and Social Issues](https://blog.mojimoon.top/2023/JC2066/)
+- [CS2115, CS2312, CS3201, CS3334, MA2185, GE1205](https://blog.mojimoon.top/2023/2023A/)
+- [CS3103, CS3342, CS3402, GE2262, CB2400, CB2500](https://blog.mojimoon.top/2024/2023B/)
+
 ## Final Year Project
 
 Repository: [mojimoon/DSFANet](https://github.com/mojimoon/DSFANet)
